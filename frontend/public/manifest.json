@@ -1,9 +1,0 @@
-{
-  "short_name": "KVault",
-  "name": "Knowledge Vault",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#1976d2",
-  "background_color": "#ffffff"
-}
